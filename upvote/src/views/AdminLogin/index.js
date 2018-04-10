@@ -1,3 +1,3 @@
-import AdminLogin from "../AdminLogin";
+import AdminLogin from "./AdminLogin";
 
 export default AdminLogin;
